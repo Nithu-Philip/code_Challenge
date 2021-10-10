@@ -1,0 +1,18 @@
+Top Ten words (word and count)
+----------------------------
+the:17
+a:15
+is:14
+of:13
+to:10
+an:9
+auctions:9
+are:8
+for:8
+price:8
+----------------------------
+Last sentence of the top occurance word.
+----------------------------
+Closed formats are opague: only the seller is able to tell how much each customer is willing to pay for an object
+----------------------------
+Total word count:443
