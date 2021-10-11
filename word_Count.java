@@ -1,6 +1,5 @@
-// Java Program to Find the 
-//Count of the words
-// Most Repeated top 10 Words in a Text File and Last sentence of the top word.
+/* Java Program to Find the Count of the words,
+ Most Repeated 10 Words in a Text File and Last sentence contains the most repeated word.*/
 
 // Importing File classes
 import java.io.File;
